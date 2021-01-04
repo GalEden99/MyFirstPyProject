@@ -11,3 +11,4 @@ else:
 
 if nth_digit in range(7):
     print(str(math.pi)[:nth_digit])
+
